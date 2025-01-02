@@ -96,7 +96,7 @@ This project is licensed under the **MIT License**.
 ## 📧 **Contact**
 - **Author:** Your Name
 - **Email:** tanmayrmohite@gmail.com
-- **GitHub:** [Your Profile](https://github.com/yourusername)
+- **GitHub:** [Your Profile](https://github.com/tanmaymohite)
 
 ---
 
