@@ -102,6 +102,6 @@ This project is licensed under the **MIT License**.
 
 **Made with ❤️ for Secure Access Control Systems!**
 
-[![Watch the Demo]()](https://drive.google.com/file/d/11CLtqDmUusz-LmnKOIndXp5T23wgQxvr/view?usp=drive_link)
+[![Watch the Demo](IMG20240301145213.jpg)](https://drive.google.com/file/d/11CLtqDmUusz-LmnKOIndXp5T23wgQxvr/view?usp=drive_link)
 
 
