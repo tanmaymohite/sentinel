@@ -107,4 +107,10 @@ This project is licensed under the **MIT License**.
 
 [![Watch the Demo](IMG20240301145213.jpg)](https://drive.google.com/file/d/11CLtqDmUusz-LmnKOIndXp5T23wgQxvr/view?usp=drive_link)
 
+## Notification Part
+![Alt Text](Screenshot_2024-04-18-23-15-32-61_2612c408d3de482350c09fa511732294.jpg)
+![Alt Text]()
+
+
+
 
